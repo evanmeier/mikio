@@ -102,7 +102,7 @@
     --dropdown-hover-color: #FAFBFB;
     --dropdown-border-color: #FAFBFB;
     --dropdown-background-color: #ffffff;
-    --section-edit-highlight: rgba(255,255,0,0.3);
+    --section-edit-highlight: rgba(244, 121, 37, 0.05);
     --tree-background-color: #ffffff;
     --tree-border-color: #dddddd;
     --tab-color: #666666;
@@ -161,8 +161,8 @@
     --button-default-border-hover-color: #0062cc;
     --topheader-background-color: #222;
     --header-background-color: #222;
-    --navbar-background-color: #375a7f;
-    --navbar-border-color: #375a7f;
+    --navbar-background-color: #535b7c;
+    --navbar-border-color: #535b7c;
     --navbar-brand-text-color: #fff;
     --navbar-brand-tagline-color: #ddd;
     --navbar-link-color: rgba(255,255,255,0.6);
