@@ -20,13 +20,7 @@
     --control-text-color: #495057;
     --control-border-color: #6c757d;
     --control-background-color: #ffffff;
-    --input-border-color: #ced4da;
-    --button-text-color: #ffffff;
-    --button-background-color: rgba(54, 59, 78, 0.8);
-    --button-border-color: rgba(54, 59, 78, 0.8);
-    --button-text-hover-color: #ffffff;
-    --button-background-hover-color: rgba(54, 59, 78, 1);
-    --button-border-hover-color: rgba(54, 59, 78, 1);
+    --input-border-color: #dddddd;
     --button-search-text-color: #ffffff;
     --button-search-background-color: rgba(54, 59, 78, 0.8);
     --button-search-border-color: rgba(54, 59, 78, 0.8);
@@ -106,7 +100,9 @@
     --display-theme-auto: none;
 }
 
-
+.mikio-navbar .mikio-navbar-brand .mikio-navbar-brand-title {
+    min-width: fit-content;
+}
 
 .mikio .mikio-toc #dw__toc {
     box-shadow: none;
